@@ -1,0 +1,25 @@
+!DOCTYPE html>
+<html>
+<title>Simple Registration from</title>
+<header>
+<h1>REGISTRATION FORM</h1>
+</header>
+<body>
+<h3>Enter your details here</h3>
+<label for="fname">Firstname</label>
+<br><input type="text" id="fname" name="fname">
+<br>
+<label for="lname">Lasstname</label>
+<br><input type="text" id="lname" name="lname">
+<br>
+<label for="DOB">Date Of Birth</label>
+<br><input type="text" id="dob" name="dob">
+<br>
+<label for="email">Email</label>
+<br><input type="text" id="email" name="email">
+<input type="image" src="img_submit.gif" alt="Submit" width="48" height="48">
+<Checkbox>Remember My Details</Checkbox>
+<br>
+<button>Submit</button>
+</body>
+</html>
